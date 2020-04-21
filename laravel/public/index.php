@@ -2,6 +2,7 @@
 
 echo "<title> Karups & Gokul Learning PHP </title>";
 echo "<head> Hello, Welcome to our learning </head>";
+echo "<br><p> This is test line </p>";
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
