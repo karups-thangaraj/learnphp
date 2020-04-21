@@ -2,11 +2,7 @@
 
 echo "<title> Karups & Gokul Learning PHP </title>";
 echo "<head> Hello, Welcome to our learning </head>";
-<<<<<<< HEAD
-echo "<br><p> This is test line </p>";
-=======
 echo "<h1> second heading added by gokul </h1>";
->>>>>>> 02b75f329516b897c9e378d8e1d1b77ac91bbd49
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
