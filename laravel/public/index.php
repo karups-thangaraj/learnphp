@@ -1,6 +1,7 @@
 <?php
 
 echo "<title> Karups & Gokul Learning PHP </title>";
+echo "<head> Hello, Welcome to our learning </head>";
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
