@@ -2,6 +2,7 @@
 
 echo "<title> Karups & Gokul Learning PHP </title>";
 echo "<head> Hello, Welcome to our learning </head>";
+<<<<<<< HEAD
 echo "<br><p> This is test line </p>";
 =======
 echo "<h1> second heading added by gokul </h1>";
